@@ -45,13 +45,13 @@ To use this sample, you need the following:
 	
    The application's Overview page shows the properties of your app.
 
-4. Copy the *Application (client) Id*. This is the unique identifier for your app. 
+4. Copy the **Application (client) Id**. This is the unique identifier for your app. 
 
 5. In the list of pages for the app, select  **Authentication**.
 
-6. In the *Redirect URIs* section, choose **Web** from the *Type* dropdown and enter *http://localhost:3000/* as the *Redirect URI*. 
+6. In the **Redirect URIs** section, choose **Web** from the **Type** dropdown and enter *http://localhost:3000/* as the **Redirect URI**. 
 
-1. Under *Advanced Settings* enable the implicit grant flow by checking the *Access tokens* and *ID tokens* boxes 
+1. Under **Advanced Settings** enable the implicit grant flow by checking the **Access tokens** and **ID tokens** boxes 
 
 8. Choose **Save**.
 
