@@ -33,21 +33,25 @@ To use this sample, you need the following:
 
 ## Register the application
 
-1. Sign into the [App Registration Portal](https://apps.dev.microsoft.com/) using either your personal or work or school account.
+1. Sign into [Azure Portal - App Registrations](https://go.microsoft.com/fwlink/?linkid=2083908) using either your personal or work or school account.
 
-2. Choose **Add an app**.
+2. Choose **New registration**.
 
-3. Enter a name for the app, and choose **Create application**. 
+3. In the **Name** section, enter a meaningful application name that will be displayed to users of the app
+
+1. In the **Supported account types** section, select **Accounts in any organizational directory and personal Microsoft accounts (e.g. Skype, Xbox, Outlook.com)**  
+
+1. Select **Register** to create the application. 
 	
-   The registration page displays, listing the properties of your app.
+   The application's Overview page shows the properties of your app.
 
-4. Copy the Application Id. This is the unique identifier for your app. 
+4. Copy the **Application (client) Id**. This is the unique identifier for your app. 
 
-5. Under **Platforms**, choose **Add Platform**.
+5. In the list of pages for the app, select  **Authentication**.
 
-6. Choose **Web**.
+6. In the **Redirect URIs** section, choose **Web** from the **Type** dropdown and enter *http://localhost:3000/* as the **Redirect URI**. 
 
-7. Make sure the **Allow Implicit Flow** check box is selected, and enter *http://localhost:3000/* as the Redirect URI. 
+1. Under **Advanced Settings** enable the implicit grant flow by checking the **Access tokens** and **ID tokens** boxes 
 
 8. Choose **Save**.
 
