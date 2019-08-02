@@ -1,3 +1,25 @@
+---
+page_type: sample
+products:
+- office-excel
+- office-onedrive
+- ms-graph
+languages:
+- javascript
+extensions:
+  contentType: samples
+  technologies:
+  - Microsoft Graph
+  - Microsoft identity platform
+  services:
+  - Microsoft identity platform
+  - Excel
+  - OneDrive
+  - Users
+  platforms:
+  - React
+  createdDate: 11/30/2017 2:43:18 PM
+---
 # Microsoft Graph Excel Starter Sample for React
 
 ## Table of contents
