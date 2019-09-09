@@ -14,7 +14,7 @@ extensions:
   services:
   - Microsoft identity platform
   - Excel
-  - OneDrive
+  - OneDrive 
   - Users
   platforms:
   - React
