@@ -6,6 +6,7 @@ products:
 - ms-graph
 languages:
 - javascript
+description: "This sample shows how to connect a React app to a Microsoft work or school (Azure Active Directory) using the Microsoft Graph API to get a user's name and address and upload that information to an Excel file stored in OneDrive."
 extensions:
   contentType: samples
   technologies:
