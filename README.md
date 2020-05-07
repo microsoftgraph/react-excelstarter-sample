@@ -1,27 +1,10 @@
----
-page_type: sample
-products:
-- office-excel
-- office-onedrive
-- ms-graph
-languages:
-- javascript
-description: "This sample shows how to connect a React app to a Microsoft work or school account using the Microsoft Graph API."
-extensions:
-  contentType: samples
-  technologies:
-  - Microsoft Graph
-  - Microsoft identity platform
-  services:
-  - Microsoft identity platform
-  - Excel
-  - OneDrive 
-  - Users
-  platforms:
-  - React
-  createdDate: 11/30/2017 2:43:18 PM
----
 # Microsoft Graph Excel Starter Sample for React
+
+## IMPORTANT
+
+**This project is being archived and replaced with the [Build React single-page apps with Microsoft Graph](https://github.com/microsoftgraph/msgraph-training-reactspa). As part of the archival process, we're closing all open issues and pull requests.**
+
+**You can continue to use this sample "as-is", but it won't be maintained moving forward. We apologize for any inconvenience.**
 
 ## Table of contents
 
